@@ -1,3 +1,5 @@
+Supplimental glyphs for FM-TOWNS font ROM.
+
 Contributers
 ===
 
